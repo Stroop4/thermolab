@@ -6,7 +6,7 @@ platforms = ["win-64"]
 version = "0.1.0"
 
 [tasks]
-editor = "jupyter lab"
+editor = { cmd = "jupyter lab", env = { JUPYTER_RUNTIME_DIR = ".jupyter_runtime" } }
 preview = "myst start"
 push = { cmd = 'git add . && git commit -m "{{ message }}" && git push', args = ["message"] }
 pull = 'git pull'

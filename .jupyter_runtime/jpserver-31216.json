@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 31216,
+  "port": 8889,
+  "root_dir": "C:\\Users\\bijho\\Documents\\thermolab",
+  "secure": false,
+  "sock": "",
+  "token": "3acfc8171ed3decb9aa2afdaa5ceb7e7b21bbb63d93c57fe",
+  "url": "http://localhost:8889/",
+  "version": "2.21.1"
+}
