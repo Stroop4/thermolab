@@ -1,0 +1,13 @@
+{
+  "shell_port": 60618,
+  "iopub_port": 60620,
+  "stdin_port": 60621,
+  "control_port": 60623,
+  "hb_port": 60622,
+  "ip": "127.0.0.1",
+  "key": "3a93613d-781c0cb35701ab9130814019",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\bijho\\Documents\\thermolab\\simulations\\NB1_deeltjesmodel.md"
+}
